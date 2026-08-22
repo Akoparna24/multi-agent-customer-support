@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-anthropic
+anthropic
+weaviate-client
+sentence-transformers
+streamlit
+python-dotenv
+rich
+supabase
+streamlit-authenticator
