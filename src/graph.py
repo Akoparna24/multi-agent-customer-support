@@ -8,13 +8,12 @@ from langgraph.graph import StateGraph, START, END
 from src.supervisor  import supervisor_node
 from src.agents      import billing_node, technical_node, general_node
 from src.escalation  import escalation_node
-
-load_dotenv()
+from src.config import WEAVIATE_URL, WEAVIATE_API_KEY
 
 # Shared Weaviate client used by agent nodes
 weaviate_client = weaviate.connect_to_weaviate_cloud(
-    cluster_url=os.getenv("WEAVIATE_URL"),
-    auth_credentials=AuthApiKey(os.getenv("WEAVIATE_API_KEY"))
+    cluster_url=WEAVIATE_URL,
+    auth_credentials=AuthApiKey(WEAVIATE_API_KEY)
 )
 
 # ── State ─────────────────────────────────────────────────────────────────────

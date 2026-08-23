@@ -1,16 +1,14 @@
-import os
 import json
 from datetime import datetime
 from supabase import create_client
-from dotenv import load_dotenv
 from rich.console import Console
+from src.config import SUPABASE_URL, SUPABASE_KEY
 
-load_dotenv()
 console = Console()
 
 supabase = create_client(
-    os.getenv("SUPABASE_URL"),
-    os.getenv("SUPABASE_KEY")
+    SUPABASE_URL,
+    SUPABASE_KEY
 )
 
 def escalate_ticket(ticket: str, domain: str, context: list, reason: str = "") -> dict:

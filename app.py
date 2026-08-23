@@ -1,12 +1,10 @@
 import streamlit as st
 import os
 import anthropic
-from dotenv import load_dotenv
 from src.graph import support_graph
+from src.config import ANTHROPIC_API_KEY
 
-load_dotenv()
-
-anthropic_client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+anthropic_client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
 
 def is_support_ticket(message: str, history: str) -> tuple[bool, str]:
