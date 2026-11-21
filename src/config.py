@@ -1,6 +1,7 @@
 import os
+from dotenv import load_dotenv
 
-
+load_dotenv()
 def get_secret(key: str) -> str:
     """Get secret from Streamlit Cloud or local .env"""
     # Try Streamlit secrets first

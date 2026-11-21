@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-11-21T11:29:59",
+  "model": "claude-haiku-4-5",
+  "prompt_version": "v1",
+  "n_tickets": 250,
+  "accuracy": 0.956,
+  "macro_f1": 0.956,
+  "accuracy_by_difficulty": {
+    "easy": 0.9836,
+    "hard": 0.8806
+  },
+  "invalid_or_error_rate": 0.0,
+  "latency_ms_p50": 716.5,
+  "latency_ms_p95": 818.2,
+  "avg_input_tokens": 131.5,
+  "avg_output_tokens": 4.0,
+  "cost_usd_per_1k_tickets": 0.1515,
+  "per_class": {
+    "billing": {
+      "precision": 0.975609756097561,
+      "recall": 0.9411764705882353,
+      "f1-score": 0.9580838323353293,
+      "support": 85.0
+    },
+    "technical": {
+      "precision": 0.9222222222222223,
+      "recall": 0.9880952380952381,
+      "f1-score": 0.9540229885057471,
+      "support": 84.0
+    },
+    "general": {
+      "precision": 0.9743589743589743,
+      "recall": 0.9382716049382716,
+      "f1-score": 0.9559748427672956,
+      "support": 81.0
+    },
+    "accuracy": 0.956,
+    "macro avg": {
+      "precision": 0.9573969842262525,
+      "recall": 0.9558477712072483,
+      "f1-score": 0.9560272212027906,
+      "support": 250.0
+    },
+    "weighted avg": {
+      "precision": 0.9572662914321449,
+      "recall": 0.956,
+      "f1-score": 0.9560360761885468,
+      "support": 250.0
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "billing",
+      "technical",
+      "general"
+    ],
+    "matrix": [
+      [
+        80,
+        3,
+        2
+      ],
+      [
+        1,
+        83,
+        0
+      ],
+      [
+        1,
+        4,
+        76
+      ]
+    ]
+  },
+  "runs": 3,
+  "label_agreement_across_runs": 0.98
+}

@@ -9,3 +9,5 @@ python-dotenv
 rich
 supabase
 streamlit-authenticator
+pandas
+scikit-learn
