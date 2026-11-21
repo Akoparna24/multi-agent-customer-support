@@ -1,0 +1,251 @@
+id,text,label,difficulty,notes
+1,"Hey, did my ₹1,499 payment actually go through? The money has been deducted, but I haven't got any confirmation!",billing,easy,
+2,"Your app is draining my battery even when I'm not actively using it. Please fix this shit!""",technical,easy,
+3,I just updated the app and suddenly everything takes ages to load wtf this update sux I hate it fix it bye,technical,easy,
+4,"Every time I open the dashboard, I get a damn 401 unauthorized error. What the hell is wrong?",technical,easy,
+5,I can't take pictures because the app randomly loses camera permission. This is bullshit!,technical,easy,
+6,"hacked?? cant get into my account, password changed by someone",technical,hard,security + login = technical
+7,Can I pay through Google Pay or PhonePe? I prefer UPI.,billing,easy,
+8,How the hell do I change the app language to Hindi? I can't find the option anywhere!,general,easy,
+9,Do you guys have a community forum where users can discuss stuff?,general,easy,
+10,Login with Google is not working. Wtf is this..worst app,technical,easy,
+11,Please tell me how to cancel this damn subscription before my next payment is deducted,billing,easy,
+12,Where can I check my next billing date? I can't seem to find it anywhere,billing,easy,
+13,I am not able to remove my saved credit card from my payment methods. Pls remove it,billing,easy,
+14,"Every time I hit submit, the whole damn page goes blank. What the hell is happening?",technical,easy,
+15,What's your company's official address? I need to send a legal notic,general,easy,
+16,This started happening after the latest update. Now I can't even get into settings. What a mess!,technical,easy,
+17,"ve restarted the app, but the stupid keyboard still covers the typing area. Getting fed up with this!",technical,easy,
+18,"Do you guys accept PayPal, or do I have to use a credit card?",billing,easy,
+19,"WTF! I open the camera to take a picture, and the whole app just fucking closes.",technical,easy,
+20,I'm so frustrated! The website keeps getting stuck while loading on my Mac's Safari browser.,technical,easy,
+21,I want to add my personal email as a backup. How do I do that?,general,easy,
+22,"do u have an office near me, im in Pune",general,hard,informal
+23,I'm seriously pissed off. You silently increased my subscription price and deducted more money from my account. I want an explanation and a refund!,billing,easy,
+24,Can someone help me turn off auto-renewal? I don't want this subscription anymore.,billing,easy,
+25,Can't access my account anymore. It says too many login attempts. What am I supposed to do now?,technical,easy,
+26, I wanna use my account on multiple devices. Is that allowed or not?,general,easy,
+27,"card declined 3 times, tried 2 different cards",billing,hard,sounds technical; payment issue
+28,"Are there any hidden charges in the Pro plan, or is the price shown actually what I'll pay?",billing,easy,
+29,Need to update my profile name ASAP. Where's that setting?,general,easy,
+30,Unable to locate accessibility settings,general,easy,
+31,I synced everything and now half my files are fucking missing. What happened?,technical,easy,
+32,How hard is it to keep my phone and laptop updated? Get your shit together!,technical,easy,
+33,payment ho gaya but subscription active nahi hua,billing,hard,Hinglish; rule 2 (paid but not unlocked)
+34,Why does the app keep asking me to log in again and again??,technical,hard,frustrated
+35,how to make account private,general,hard,short; no punctuation
+36,app hai ya sirf website??,general,easy,
+37,sir pls refund my money i didnt use the app even one time,billing,hard,informal
+38,wtf is this charge on my card,billing,hard,"angry, short"
+39,Do I get charged automatically every month once I subscribe?,billing,easy,
+40,"I actually like the app, but there are a few things that need improvement. How can I share them?",general,easy,
+41,white screen,technical,hard,very short
+42,Why the hell am I losing money on currency conversion? Fix your damn billing system!,billing,easy,
+43,my subscription renewed automatically even though I turned off auto renew in settings,billing,hard,mentions settings; billing issue
+44,pics not loading in chat wtf,technical,easy,
+45,what do u guys even do,general,hard,informal; company info
+46,"I've checked my inbox several times, but there's no receipt for my yearly purchase",billing,easy,
+47,"Everything looks fine until I start scrolling, then the whole screen begins flickering",technical,easy,
+48,This is getting ridiculous. How long are your servers going to remain unavailable?,technical,easy,
+49,Where can I download my payment receipt? I need it in my email.,billing,easy,
+50,Tamil la support iruka? Need help.,general,easy,
+51,audio lagging behind video again wtf,technical,easy,
+52,Every notification comes twice on my phone. ,technical,easy,
+53,cant loggin keeps sayin wrong pasword,technical,hard,typos
+54,Tried syncing 10 times... still nothing!,technical,easy,
+55,Are you kidding me? Another price hike? I'm honestly tired of this crap.,billing,easy,
+56,Do you offer any flexible payment options for the annual plan?,billing,easy,
+57,where's the setting to change my name?? have looked everywhere,general,hard,"frustrated; settings, not a bug"
+58,charged twice and the app is also a bit slow,billing,hard,"rule 1: neither blocks use, first mentioned = billing"
+59,I'm based in Mumbai. Is there a local support team I can contact?,general,easy,
+60,Why the hell am I still being charged? I already cancelled my subscription!,billing,easy,
+61,We have 50 employees joining. Do we need to pay for all accounts upfront?,billing,easy,
+62,"opy-paste suddenly stopped working. I've tried everything, but nothing helps.",technical,easy,
+63,Why does your website keep logging me out every time I open a new tab? This is so annoying!,technical,easy,
+64,My calendar isn't loading at all. It's just a white screen. Can someone fix this?,technical,easy,
+65,"mera naam profile me galat likha hai, kaise change karu?",general,hard,Hinglish; settings change
+66,Why the hell is there a pending charge from you? I didn't buy anything!,billing,easy,
+67,How can I flag a user who's using abusive language?,general,easy,
+68,"I was charged Rs 499 on 2nd Nov and again on 3rd Nov, order ID 88213. I was not even notified abt this. Pls give me a call and explain me. I want clarification right away",billing,easy,
+69,I want to use the app privately without anyone seeing my activity. How do I do that?,general,easy,
+70,I need the October payment bill. It would be great if u can mail me the same,billing,easy,
+71,charged twice and now the app won't even open,technical,hard,rule 1: app not opening blocks use = technical
+72,"Since the update everything is slow, also what are your office hours?",technical,hard,"rule 1: neither blocks, first mentioned = technical"
+73,How quickly do you usually reply to support emails? As I am mailing you people from last 3 days but still there is no response,general,easy,
+74,I forgot my password and the reset link isn't arriving. I tried numerous times but still its not working. Wtf is this?,technical,easy,
+75,OTP nahi aa raha,technical,hard,Hinglish
+76,I want to know what you do with my chats and photos,general,hard,privacy policy
+77,Can I get my money back?,billing,easy,
+78,Can I change the time zone in my account settings?,general,easy,
+79,How do I change my email address?,general,easy,
+80,promo code not working at checkout,billing,hard,sounds technical; discount = pricing. Consider adding a rule
+81,What is your refund policy?,billing,hard,'policy' suggests general; refunds = billing. Consider adding a rule
+82,Why was I charged a late payment fee?,billing,easy,
+83,I paid for premium and the app crashes whenever I open the premium features,technical,hard,features are unlocked but crashing; not rule 2
+84,Is there a discount if I pay yearly instead of monthly?,billing,easy,
+85,How do I make my profile private?,general,easy,
+86,want to delete my acount permanantly and also want refund,general,hard,"rule 1: neither blocks, first mentioned = general; typos"
+87,invoice,billing,hard,single word
+88,"I cancelled within the 7-day window, when do I get my money back?",billing,easy,
+89,I want a refund for last month's subscription,billing,easy,
+90,Do you share my data with third parties?,general,easy,
+91,What are your customer support hours?,general,easy,
+92,Do you have an affiliate program?,general,easy,
+93,Do you offer EMI options for the annual plan?,billing,easy,
+94,The download button doesn't do anything when I click it,technical,easy,
+95,How long has your company been in business?,general,easy,
+96,I can't find the cancel subscription button anywhere,billing,hard,sounds like a UI issue; it's about subscription charges
+97,Please explain the charges on my latest invoice,billing,easy,
+98,When I tap 'My Orders' the app closes,technical,easy,
+99,How do I deactivate my account temporarily?,general,easy,
+100,How do I change the email address where I receive notifications?,general,easy,
+101,"The app won't install on my phone, it says device not compatible",technical,easy,
+102,I keep getting 'session expired' even right after logging in,technical,easy,
+103,How do I switch my account from personal to business type?,general,easy,
+104,Where can I find the user guide?,general,easy,
+105,what languages does ur support speak,general,hard,informal
+106,How much will I be charged when my trial ends?,billing,easy,
+107,Chat messages are showing up out of order,technical,easy,
+108,What is your privacy policy regarding my data?,general,easy,
+109,Uploads larger than 10 MB just fail,technical,easy,
+110,"My invoice shows the wrong company GST number, can you reissue it?",billing,easy,
+111,What is your policy on posting copyrighted content?,general,easy,
+112,not working,technical,hard,very short; vague
+113,why so expensive,billing,hard,short; pricing complaint
+114,How do I change my date of birth on my profile?,general,easy,
+115,Are you GDPR compliant?,general,easy,
+116,How do I enable two-factor authentication?,general,hard,sounds technical; it's a settings how-to
+117,How do I log out from all my devices?,general,hard,sounds technical; it's a settings how-to
+118,The desktop app shows a white screen on Windows 11,technical,easy,
+119,How do I update my card details for auto-renewal?,billing,easy,
+120,app crash,technical,hard,very short
+121,The app shows the wrong time on all my events,technical,easy,
+122,Where can I find your community guidelines?,general,easy,
+123,How do I change my profile picture?,general,easy,
+124,Is support available on weekends?,general,easy,
+125,The upload progress bar gets stuck at 99%,technical,easy,
+126,my paymnt failed but monye got deducted from acount,billing,hard,typos
+127,Is my data stored in India?,general,easy,
+128,What are your holiday hours this December?,general,easy,
+129,Who founded your company?,general,easy,
+130,The 'forgot password' button doesn't do anything,technical,easy,
+131,Export to PDF produces a blank file,technical,easy,
+132,"The app is using 3 GB of storage on my phone, that seems like a bug",technical,easy,
+133,charged,billing,hard,single word
+134,Is it safe to use your app? I heard there was a data leak,general,hard,sounds technical; policy/company question
+135,Is your office closed on Diwali?,general,easy,
+136,I need a refund for a duplicate transaction on 3rd November,billing,easy,
+137,Is your service available in Bangladesh?,general,easy,
+138,"After updating to the latest version, the app won't open at all",technical,easy,
+139,Tapping the share button crashes the app,technical,easy,
+140,What is your data retention policy?,general,easy,
+141,My uploaded photos look blurry and compressed,technical,easy,
+142,How do I change the card used for my subscription?,billing,easy,
+143,The refund you promised last week still hasn't arrived,billing,easy,
+144,my profile is showing someone else's name and photo,technical,hard,sounds like settings; it's a bug
+145,I'm getting a 'something went wrong' message on the home screen,technical,easy,
+146,"you guys are thieves, give back my 999",billing,hard,angry
+147,is ur support 24/7,general,hard,informal
+148,Can I delete my account permanently?,general,easy,
+149,I want to switch from monthly to annual billing,billing,easy,
+150,"I have been a loyal customer for three years and honestly I am disappointed with how things have gone lately. The app used to be great, support used to reply fast, and now nobody answers anything. Anyway the real reason I am writing is that you took money from my account for a plan I never asked for.",billing,hard,long rant; real issue at the end
+151,Who do I contact for partnership or media enquiries?,general,easy,
+152,Every time I open the app it asks me to log in again,technical,easy,
+153,"bought premium yesterday, still showing free plan",billing,hard,rule 2
+154,Where is your company headquartered?,general,easy,
+155,Pages take more than 30 seconds to load,technical,easy,
+156,"the payment page doesn't load, just keeps spinning forever",technical,hard,on payment page but it's a page not loading. Consider adding a rule
+157,I have been trying to reach a human for three days now. Your chatbot keeps going in circles and nobody replies to my emails. I just want a phone number where I can talk to a real person.,general,hard,long rant; real ask is contact info
+158,The app crashes when I rotate my phone to landscape,technical,easy,
+159,What happens to my money if I cancel halfway through the annual plan?,billing,easy,
+160,can't reset my password,technical,hard,rule 3
+161,Why is there an extra charge of 99 rupees on my statement?,billing,easy,
+162,kitna lagega yearly plan ka?,billing,hard,Hinglish; rule 4 (price question)
+163,Do you charge extra for adding more team members?,billing,easy,
+164,Push notifications stopped working on my Android phone,technical,easy,
+165,Dark mode doesn't apply on some screens,technical,easy,
+166,I was charged full price even though the website showed a 50% off offer,billing,easy,
+167,The app freezes on the loading screen,technical,easy,
+168,it keeps saying network error but my internet is fine,technical,hard,network wording
+169,I get a 404 error when I click the link in your email,technical,easy,
+170,Can I change my registered address in my profile?,general,easy,
+171,How do I change my username?,general,easy,
+172,Our company needs the invoice addressed to our business name,billing,easy,
+173,How do I unsubscribe from your newsletter?,general,hard,'unsubscribe' sounds like billing; it's email settings
+174,How do I download a copy of all my data?,general,easy,
+175,how much is the pro plan?,billing,hard,rule 4; sounds like a general question
+176,Why didn't my referral credit get applied to this month's bill?,billing,easy,
+177,How can I contact your support team by phone?,general,easy,
+178,Can I transfer my account to another person?,general,easy,
+179,Can I get a partial refund since I only used the service for 3 days?,billing,easy,
+180,How do I apply a gift card to my subscription?,billing,easy,
+181,error,technical,hard,single word
+182,Videos keep buffering even on fast wifi,technical,easy,
+183,can't log in to update my billing address,technical,hard,mentions billing; login problem blocks = rule 3
+184,my account says it doesn't exist but I've been using it for a year,technical,hard,sounds like account settings; it's a login bug
+185,Do you have any offers going on right now?,billing,hard,rule 4 (pricing); sounds general
+186,I can't attach images to my messages anymore,technical,easy,
+187,I was billed for the family plan but I only signed up for the individual plan,billing,easy,
+188,I get logged out every few minutes,technical,easy,
+189,What's the price difference between the basic and pro plans?,billing,easy,
+190,Search results take forever to appear,technical,easy,
+191,My saved drafts were deleted after the app restarted,technical,easy,
+192,Can I have two accounts with the same email?,general,easy,
+193,My free trial ended and I was charged without any reminder,billing,easy,
+194,"paise do baar kat gaye, refund kab milega?",billing,hard,Hinglish
+195,What is your company's mission?,general,easy,
+196,I keep getting error code 503 when I try to upload a file,technical,easy,
+197,I'm not receiving the OTP to log in,technical,easy,
+198,Where can I download all my past invoices?,billing,easy,
+199,The search bar returns no results even for things I know exist,technical,easy,
+200,office kab khulta hai?,general,hard,Hinglish (when does the office open)
+201,How do I change my password from inside settings?,general,hard,"rule 3 edge: voluntary change, not a problem. Consider adding a rule"
+202,"I can't log in, it says invalid password but I'm sure it's correct",technical,easy,
+203,What is the minimum age to create an account?,general,easy,
+204,contact no,general,hard,very short
+205,Can I pay for 10 user licenses on a single invoice?,billing,easy,
+206,Can I schedule a call with your team?,general,easy,
+207,The app has been extremely slow since the last update,technical,easy,
+208,where r u guys based,general,hard,informal
+209,What email address should I use for complaints?,general,easy,
+210,Is there any refund if I downgrade my plan?,billing,easy,
+211,What happens to inactive accounts?,general,easy,
+212,How do I set my notification preferences?,general,easy,
+213,I was charged twice this month,billing,easy,
+214,Do you have a WhatsApp support number?,general,easy,
+215,error message says my card was declined,billing,hard,mentions 'error' but is a payment issue
+216,login nhi ho raha,technical,hard,Hinglish
+217,The app has been stuck on 'Updating...' for an hour,technical,easy,
+218,I want to cancel my plan and get a prorated refund,billing,easy,
+219,The password reset link says expired as soon as I click it,technical,easy,
+220,Can I change my email? also the app is a bit laggy sometimes,general,hard,"rule 1: neither blocks, first mentioned = general"
+221,How do I update the phone number on my profile?,general,easy,
+222,"I don't usually write to support. I've used your app for years and recommended it to all my friends, but this week has been a nightmare. I had an important meeting and needed my notes, and every time I tap the notes tab the whole thing just closes.",technical,hard,long rant; real issue at the end
+223,Are you hiring? Where can I see job openings?,general,easy,
+224,"I paid for a year upfront, why am I being charged monthly as well?",billing,easy,
+225,The reports page shows data from last month instead of today,technical,easy,
+226,Do I need to verify my email to use the app?,general,hard,sounds technical; account policy
+227,the app is sooo slowwww,technical,hard,informal
+228,Fingerprint login stopped working after the update,technical,easy,
+229,Can you refund me to my UPI ID instead of my card?,billing,easy,
+230,My company was charged for 15 seats but we only have 10 users,billing,easy,
+231,"I'd like a refund, I bought the wrong plan by mistake",billing,easy,
+232,Can I get a GST invoice for my company?,billing,easy,
+233,What payment methods do you accept?,billing,easy,
+234,My two-factor authentication code is always rejected,technical,easy,
+235,app baar baar band ho raha hai,technical,hard,Hinglish (app keeps closing)
+236,Does the subscription price include tax?,billing,easy,
+237,"Voice messages won't play, they just show a loading spinner",technical,easy,
+238,timings?,general,hard,very short
+239,"can my kid use the app, he is 12",general,hard,policy (age)
+240,Do you have an office in Bangalore?,general,easy,
+241,Will I be charged immediately if I upgrade in the middle of the month?,billing,easy,
+242,Do you have a live chat option?,general,easy,
+243,Can I change my billing date to the 1st of every month?,billing,easy,
+244,Is VAT included in the price for customers in the UK?,billing,easy,
+245,refund??,billing,hard,very short
+246,upgraded to pro but my storage limit is still 5GB,billing,hard,rule 2; sounds technical
+247,Where can I read your terms of service?,general,easy,
+248,How long does a refund take to reach my bank account?,billing,easy,
+249,Is there a student discount on subscriptions?,billing,easy,
+250,Your app is garbage. Fix it.,technical,hard,"angry, vague"
