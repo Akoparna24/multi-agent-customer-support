@@ -1,0 +1,50 @@
+Q: What plans do you offer and how much do they cost?
+A: CloudNest has four plans. Free costs nothing and includes 5 GB of storage. Basic costs Rs 199 per month with 50 GB. Pro costs Rs 499 per month with 500 GB and premium features. Business costs Rs 999 per user per month with 2 TB per user and admin controls. All prices include 18% GST.
+
+Q: Is there a discount for yearly billing?
+A: Yes. Paying yearly gives you two months free: Basic costs Rs 1,990 per year, Pro costs Rs 4,990 per year, and Business costs Rs 9,990 per user per year. You can switch from monthly to yearly billing at any time in Settings > Billing; the change takes effect on your next billing date.
+
+Q: Do you offer student or other discounts?
+A: Students with a valid college email get 50% off the Pro plan for up to four years. Non-profit organisations get 30% off the Business plan. Apply from Settings > Billing > Discounts. Only one discount can be applied to an account at a time.
+
+Q: Which payment methods do you accept?
+A: We accept credit and debit cards (Visa, Mastercard, RuPay, American Express), UPI, net banking, and PayPal for international customers. Annual plans above Rs 3,000 can also be paid in 3 or 6 no-cost EMIs on selected credit cards.
+
+Q: How do I update my card or payment method?
+A: Go to Settings > Billing > Payment methods, add the new card or UPI ID, and set it as default. The default method is used for all future renewals. To remove a saved card, click the three-dot menu next to it and choose Remove. A card linked to an active subscription can only be removed after another default method is added.
+
+Q: Why was I charged twice?
+A: A duplicate charge usually happens when a payment is retried after a network timeout. In most cases the second charge is an authorisation hold that your bank releases automatically within 5 to 7 working days. If both charges appear as completed on your statement after 7 days, contact billing support with both transaction IDs and we will refund the duplicate within 5 working days.
+
+Q: My payment was deducted but my plan was not upgraded. What should I do?
+A: If money was deducted but your account still shows the old plan, the payment confirmation from your bank may be delayed. Wait 30 minutes, then sign out and sign back in. If the plan still has not changed, contact billing support with the transaction ID or UTR number. We will activate the plan manually or refund the payment within 5 working days.
+
+Q: What is your refund policy?
+A: New subscriptions can be cancelled for a full refund within 7 days of purchase. After 7 days, monthly plans are not refunded, but you keep access until the end of the billing period. Annual plans cancelled after 7 days receive a prorated refund for the remaining full months. Refunds go back to the original payment method.
+
+Q: How long does a refund take?
+A: Refunds are processed within 2 working days of approval. Card refunds take 5 to 7 working days to appear on your statement. UPI and net banking refunds usually arrive within 3 working days. You will receive an email with the refund reference number once it is processed.
+
+Q: How do I cancel my subscription or stop auto-renewal?
+A: Go to Settings > Billing > Subscription and click Cancel subscription. This turns off auto-renewal. You keep access to paid features until the end of the current billing period, after which the account moves to the Free plan. Your files are kept, but uploads are blocked if you are over the Free storage limit.
+
+Q: Why was I charged after my free trial?
+A: The 14-day Pro trial converts to a paid monthly plan automatically unless you cancel before it ends. We send reminder emails 3 days and 1 day before the trial ends. If you were charged within 48 hours of the trial ending and have not used paid features, contact billing support for a full refund.
+
+Q: How do upgrades and downgrades work mid-month?
+A: When you upgrade, you are charged immediately for the price difference for the rest of the current billing period, and new features unlock at once. When you downgrade, the change takes effect at the start of the next billing period and there is no refund for the current period.
+
+Q: Why did my bill go up?
+A: Bills can go up if you added team members on the Business plan, if a discount or promotional price ended, or if you moved from yearly to monthly billing. We notify you by email at least 30 days before any price change to your plan. You can see a full breakdown of each charge in Settings > Billing > Invoices.
+
+Q: How do I get an invoice or GST invoice?
+A: Every payment generates an invoice, which you can download from Settings > Billing > Invoices. To get a GST invoice with your company's name and GSTIN, add your business details in Settings > Billing > Business information before your next payment. To correct details on a past invoice, contact billing support within 30 days of the invoice date.
+
+Q: How does billing work for teams?
+A: The Business plan is billed per user. Adding a team member adds a prorated charge for the rest of the billing period, and removing a member reduces the next bill. Admins can see the number of billed seats in Admin > Billing. All seats appear on a single invoice.
+
+Q: Why is my promo code not working?
+A: Promo codes can fail if they have expired, have already been used on your account, apply only to a different plan, or were entered with extra spaces. Codes cannot be combined with student or non-profit discounts. If you believe a valid code was rejected, contact billing support before completing payment; discounts cannot be applied after a payment is made.
+
+Q: Why was my card declined?
+A: Card declines usually come from the bank, not from CloudNest. Common reasons are insufficient balance, online or international transactions being disabled on the card, or the bank's fraud check. Try enabling online payments in your banking app, or use UPI or another card. If several cards fail, contact billing support with the error message shown at checkout.

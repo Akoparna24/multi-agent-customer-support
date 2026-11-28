@@ -1,0 +1,53 @@
+Q: What is CloudNest?
+A: CloudNest is a cloud storage and collaboration app for individuals and teams. You can store files, sync them across phone and computer, share them securely, and work on documents together. CloudNest was founded in 2019 and is headquartered in Bengaluru, India.
+
+Q: What are your customer support hours?
+A: Chat and email support are available 24 hours a day, 7 days a week. Phone support is available Monday to Saturday, 9 AM to 9 PM IST. Support is closed on national holidays (Republic Day, Independence Day, Gandhi Jayanti) and on Diwali; chat remains available on those days with longer response times.
+
+Q: How can I contact customer support?
+A: You can reach us by in-app chat (Help > Chat with us), by email at support@cloudnest.in, by phone at 1800-123-4567 (toll-free in India), or on WhatsApp at +91 98765 43210. Email replies usually arrive within 24 hours; chat replies within 5 minutes during business hours.
+
+Q: Where are your offices?
+A: Our headquarters is in Bengaluru, Karnataka. We also have support centres in Mumbai and Pune. Offices are not open for walk-in customer support; please use chat, email or phone.
+
+Q: Which languages does support speak?
+A: Support is available in English and Hindi at all times, and in Tamil, Telugu, Bengali and Marathi from Monday to Friday, 10 AM to 6 PM IST. The app itself is available in English, Hindi, Tamil, Telugu, Bengali and Marathi.
+
+Q: How do I change my email address, phone number or name?
+A: Go to Settings > Profile. You can change your display name, profile picture, phone number and date of birth there. To change your email address, click Change email; we will send a confirmation link to the new address, and the change is complete once you click it. Usernames can be changed once every 30 days.
+
+Q: How do I change the app language or time zone?
+A: Go to Settings > Preferences. Choose your language and time zone from the dropdowns. Changes apply immediately on the device and sync to your other devices within a few minutes.
+
+Q: How do I manage notification and email preferences?
+A: Go to Settings > Notifications to choose which push notifications you receive. To stop marketing or newsletter emails, click Unsubscribe at the bottom of any marketing email or turn off "Product news" in Settings > Notifications. Unsubscribing from emails does not affect your plan or billing.
+
+Q: How do I make my profile private or hide my online status?
+A: Go to Settings > Privacy. Set Profile visibility to "Only me" or "My team", and turn off "Show online status". Shared files remain visible to the people you shared them with.
+
+Q: How do I turn on two-factor authentication or log out of all devices?
+A: Go to Settings > Security. Click Two-factor authentication to set it up with an authenticator app or SMS. To log out everywhere, click Sign out of all devices; you will need to log in again on each device.
+
+Q: How do I delete or deactivate my account?
+A: To deactivate temporarily, go to Settings > Account > Deactivate; your data is kept and you can return by logging in. To delete permanently, go to Settings > Account > Delete account. Deletion is final after a 14-day grace period, during which you can cancel it by logging in. Cancel any paid subscription before deleting.
+
+Q: Can I download a copy of all my data?
+A: Yes. Go to Settings > Privacy > Download my data. We prepare a ZIP file with your files and account information and email you a download link within 48 hours. The link is valid for 7 days.
+
+Q: Where is my data stored and is it safe?
+A: All customer data is stored in data centres in India and encrypted both in transit and at rest. We are compliant with India's Digital Personal Data Protection Act and with GDPR for customers in the EU. We never sell your data or share it with advertisers. Our full privacy policy is at cloudnest.in/privacy.
+
+Q: Was there a data leak?
+A: We publish any confirmed security incident on our blog and notify affected users by email within 72 hours. If you are worried about your account, change your password and turn on two-factor authentication. You can report security concerns to security@cloudnest.in.
+
+Q: What is the minimum age to use CloudNest?
+A: You must be at least 13 years old to create an account. Users between 13 and 18 need consent from a parent or guardian. Business accounts must be created by an adult authorised to act for the organisation.
+
+Q: What happens to inactive accounts?
+A: Free accounts with no login for 24 months are marked inactive. We send three reminder emails over 60 days before deleting an inactive account. Paid accounts are never deleted for inactivity while the subscription is active.
+
+Q: How do I report abuse or another user?
+A: Open the user's profile or the shared file, click the three-dot menu, and choose Report. You can also email abuse@cloudnest.in. Our trust and safety team reviews reports within 48 hours. Content that breaks our community guidelines or copyright policy is removed.
+
+Q: Where can I find guides, terms and other information?
+A: The Help Centre at help.cloudnest.in has user guides and video tutorials. Our terms of service are at cloudnest.in/terms and our community guidelines at cloudnest.in/guidelines. For partnerships and media enquiries, email partners@cloudnest.in; for job openings, visit cloudnest.in/careers.
